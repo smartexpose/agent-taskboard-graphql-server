@@ -23,7 +23,7 @@
                salutation
                phone
                mobile
-               company 
+               company
            }
          }
        }

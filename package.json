@@ -1,0 +1,16 @@
+{
+  "name": "json-graphql-server-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial of GraphQL with json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maximiliano Suster",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "6.16.0",
+    "json-graphql-server": "^1.0.1"
+  }
+}
